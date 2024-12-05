@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-
+#testing
 # Load the image
 image = cv2.imread('../assets/kid_in_gold.jpg')
 

@@ -1,6 +1,6 @@
 {
     "terminal.integrated.env.windows": {
-    "TCL_LIBRARY": "C:/Users/jng01/AppData/Local/Programs/Python/Python313/tcl/tcl8.6",
-    "TK_LIBRARY": "C:/Users/jng01/AppData/Local/Programs/Python/Python313/tcl/tk8.6"
+    "TCL_LIBRARY": "C:/Users/User/AppData/Local/Programs/Python/Python39/tcl/tcl8.6",
+    "TK_LIBRARY": "C:/Users/User/AppData/Local/Programs/Python/Python39/tcl/tk8.6"
 }
 }
